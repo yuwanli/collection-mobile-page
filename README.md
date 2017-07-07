@@ -4,7 +4,7 @@ my collection of mobile page
 
 本人只是一个前端菜鸟，以下所有有理解错误的地方欢迎大家留言指正。
 
-那h5的话，避不开的话题就是用什么插件，我常用的插件有以下这些：
+那h5的话，避不开的话题就是用什么插件和用什么库，我常用的插件有以下这些：
 ### [swiper](http://www.swiper.com.cn/)
 
 swiper是目前应用较广泛的移动端网页触摸内容滑动js插件。相信大家肯定对swiper不陌生，在平时的开发过程中，一般是在较为紧急的情况下会选择用swiper来做快速开发。后面会讲一个遇到的问题，swiper的单页希望能单页滚动，且能上拉下拉翻页。
@@ -99,3 +99,33 @@ css3d是一个伪3d的插件，基于div+css3实现,相对canvas webgl拥有更�
 
 [http://zj.qq.com/money/ywl_zhxy_invite.htm](http://zj.qq.com/money/ywl_zhxy_invite.htm)
 
+### [sui](https://github.com/sdc-alibaba/SUI-Mobile)
+
+SUI Mobile 是阿里巴巴国际UED前端团队出品的移动端 UI库。当时做的是一个企业号下面的功能页面，这里没法给出入口供体验，这个库给我的感觉就是轻、兼容性好、体验好、使用便捷。个人还是喜欢比较完善（有官网、有demo、有api、有示例）一点的框架，对于前端菜鸟来说，能快速上手是一件比较重要的事。
+
+
+### [echarts](https://github.com/ecomfe/echarts)
+
+ECharts，一个纯 Javascript 的图表库，可以流畅的运行在 PC 和移动设备上，兼容当前绝大部分浏览器（IE8/9/10/11，Chrome，Firefox，Safari等），底层依赖轻量级的 Canvas 类库 ZRender，提供直观，生动，可交互，可高度个性化定制的数据可视化图表。
+很是腻害的一个库，基于这个库可以做很多东西，我这里没有太深入研究这个echarts，项目复杂度没有那么高。
+
+- [活动数据分析](http://zj.qq.com/APP/dz_members_analysis.htm?id=3996)
+
+### zepto
+
+前面说了用各种插件快速开发，但有的时候，项目不大，使用swiper等插件的时候觉得会很累赘，这个时候我会只用一个zepto，使用它swipeDown、swipeUp、tap等来实现翻页，或者结合其他的框架来做一个h5。
+
+- [http://zj.qq.com/zt2016/dz_xiao/index.htm](http://zj.qq.com/zt2016/dz_xiao/index.htm)
+- [三周年邀请函](http://zj.qq.com/money/ywl_invitation.htm)
+- [http://zj.qq.com/money/ywl_invition_test3.htm](http://zj.qq.com/money/ywl_invition_test3.htm)
+- [http://zj.qq.com/money/ywl_invition_test2.htm](http://zj.qq.com/money/ywl_invition_test2.htm)
+- [http://zj.qq.com/money/ywl_invition_test1.htm](http://zj.qq.com/money/ywl_invition_test1.htm)
+- [http://zj.qq.com/money/ywl_linan_travel.htm](http://zj.qq.com/money/ywl_linan_travel.htm)
+- http://zj.qq.com/money/ywl_house_widsom_test.htm
+
+- [运河庙会报名页](http://zj.qq.com/money/ywl_dyh_upload.htm)
+- [运河庙会结果集合](http://zj.qq.com/money/ywl_dyh_vote.htm)
+- [运河庙会个人页](http://zj.qq.com/money/ywl_dyh_index.htm?aid=2133&pid=1619)
+
+- [我第一个策划类的h5-感恩节](http://zj.qq.com/money/ywl_thanksgiving2.htm)
+![我第一个策划类的h5-感恩节](readme-images/8.png "我第一个策划类的h5-感恩节")
