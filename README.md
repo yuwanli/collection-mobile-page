@@ -35,10 +35,14 @@ swiper是目前应用较广泛的移动端网页触摸内容滑动js插件。相
 
 - [2016年终策划-大事记](http://zj.qq.com/zt2016/2016hz/index.htm)
 
+![2016年终策划-大事记](readme-images/9.png "2016年终策划-大事记")
+
 > 合理的运用swiper，可以做一个类似这样不一样互动效果的h5，具体做法不展开分析了，主要用了一个内嵌的swiper，同上面所诉的方式，然后就是利用'swiper-slide-active'和css来控制节点的显示和隐藏。所以这里有一个技巧就是要把一个长图切碎，每一个碎片做为一个内置swiper的slide，节点放在对应的slide里即可，然后组合css3的动画就可以了。这一套模板公司内部复用好几次，后面两个是复用版本，只是切换图片和文字而已。
 
 - http://zj.qq.com/zt2016/nbfuture/index.htm
 - http://zj.qq.com/zt2017/rgdsj/index.htm
+
+--------------------
 
 ### [phaser](http://www.phaser.io/)
 
@@ -64,6 +68,8 @@ swiper是目前应用较广泛的移动端网页触摸内容滑动js插件。相
 
 ![2016年年度黑企鹅奖](readme-images/5.png "2016年年度黑企鹅奖")
 
+--------------------
+
 ### [pixi](http://www.pixijs.com/)
 
 Pixi.js使用WebGL,是一个超快的HTML5 2D渲染引擎。phaser内部使用的也就是pixi。其实以下这两个h5主要是用了陀螺仪(deviceorientation)，用pixi只是不想手动用js去写canvas。
@@ -76,6 +82,9 @@ Pixi.js使用WebGL,是一个超快的HTML5 2D渲染引擎。phaser内部使用�
 
 ![2016七夕策划-视力表](readme-images/7.png "2016七夕策划-视力表")
 
+
+--------------------
+
 ### [skroll](https://github.com/Prinzhorn/skrollr)
 
 skroll是视差滚动插件，实现的是一种视觉效果，要实现酷炫的效果必须有好的剧本，有设计的全力配合，不然依靠前端去做出的效果会很生硬，下面给出的是比较失败的例子（/捂脸）。
@@ -83,6 +92,8 @@ skroll是视差滚动插件，实现的是一种视觉效果，要实现酷炫�
 - [http://zj.qq.com/money/ywl_conference.htm](http://zj.qq.com/money/ywl_conference.htm)
 - [http://zj.qq.com/money/ywl_product_commit.htm](http://zj.qq.com/money/ywl_product_commit.htm)
 - [http://zj.qq.com/money/ywl_shaoxing_birth_test.htm](http://zj.qq.com/money/ywl_shaoxing_birth_test.htm)
+
+--------------------
 
 ### [css3d](https://github.com/shrekshrek/css3d-engine)
 
@@ -94,6 +105,8 @@ css3d是一个伪3d的插件，基于div+css3实现,相对canvas webgl拥有更�
 
 ![四周年策划](readme-images/6.png "四周年策划")
 
+--------------------
+
 ### [vue](https://cn.vuejs.org/)
 
 下面这个项目是我的[vue初体验](https://github.com/yuwanli/start-with-vue)(简直想死)，这里就不赘述了。
@@ -104,6 +117,8 @@ css3d是一个伪3d的插件，基于div+css3实现,相对canvas webgl拥有更�
 
 SUI Mobile 是阿里巴巴国际UED前端团队出品的移动端 UI库。当时做的是一个企业号下面的功能页面，这里没法给出入口供体验，这个库给我的感觉就是轻、兼容性好、体验好、使用便捷。个人还是喜欢比较完善（有官网、有demo、有api、有示例）一点的框架，对于前端菜鸟来说，能快速上手是一件比较重要的事。
 
+--------------------
+
 
 ### [echarts](https://github.com/ecomfe/echarts)
 
@@ -111,6 +126,8 @@ ECharts，一个纯 Javascript 的图表库，可以流畅的运行在 PC 和移
 很是腻害的一个库，基于这个库可以做很多东西，我这里没有太深入研究这个echarts，项目复杂度没有那么高。
 
 - [活动数据分析](http://zj.qq.com/APP/dz_members_analysis.htm?id=3996)
+
+--------------------
 
 ### zepto
 
