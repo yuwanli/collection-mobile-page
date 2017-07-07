@@ -39,9 +39,9 @@ swiper是目前应用较广泛的移动端网页触摸内容滑动js插件。相
 - http://zj.qq.com/zt2016/nbfuture/index.htm
 - http://zj.qq.com/zt2017/rgdsj/index.htm
 
-[phaser](http://www.phaser.io/)
+### [phaser](http://www.phaser.io/)
 
-这里不展开讲phaser了，后面专门写一篇关于使用该游戏框架的。下面是我做过的一些小游戏，后面会挑选几个游戏具体分享下如何使用phaser。
+这里不展开讲phaser了，后面专门写一篇关于使用该游戏框架的，挑选几个游戏具体分享下我是如何使用phaser。
 
 - [2016中秋策划-凑齐全家福](http://zj.qq.com/zt2016/zqqjf/index.htm)
 
@@ -63,7 +63,7 @@ swiper是目前应用较广泛的移动端网页触摸内容滑动js插件。相
 
 ![2016年年度黑企鹅奖](readme-images/5.png "2016年年度黑企鹅奖")
 
-[pixi](http://www.pixijs.com/)
+### [pixi](http://www.pixijs.com/)
 
 Pixi.js使用WebGL,是一个超快的HTML5 2D渲染引擎。phaser内部使用的也就是pixi。其实以下这两个h5主要是用了陀螺仪(deviceorientation)，用pixi只是不想手动用js去写canvas。
 
@@ -75,7 +75,7 @@ Pixi.js使用WebGL,是一个超快的HTML5 2D渲染引擎。phaser内部使用�
 
 ![2016七夕策划-视力表](readme-images/7.png "2016七夕策划-视力表")
 
-[skroll](https://github.com/Prinzhorn/skrollr)
+### [skroll](https://github.com/Prinzhorn/skrollr)
 
 skroll是视差滚动插件，实现的是一种视觉效果，要实现酷炫的效果必须有好的剧本，有设计的全力配合，不然依靠前端去做出的效果会很生硬，下面给出的是比较失败的例子（/捂脸）。
 
@@ -83,7 +83,7 @@ skroll是视差滚动插件，实现的是一种视觉效果，要实现酷炫�
 - [http://zj.qq.com/money/ywl_product_commit.htm](http://zj.qq.com/money/ywl_product_commit.htm)
 - [http://zj.qq.com/money/ywl_shaoxing_birth_test.htm](http://zj.qq.com/money/ywl_shaoxing_birth_test.htm)
 
-css3d(https://github.com/shrekshrek/css3d-engine)
+### [css3d](https://github.com/shrekshrek/css3d-engine)
 
 css3d是一个伪3d的插件，基于div+css3实现,相对canvas webgl拥有更好的平台兼容性，但是也指局限实现基本的3d效果。说到这个，不得不提淘宝做的[造物节](http://show.im20.com.cn/zwj/)的策划，当时第一次看到这个h5的时候，以为是用的webgl，但是简单看了下发现就是一堆div和css，就被震惊到了，用css就能实现这样的3d效果，然后找到他们使用的这个插件，然后在公司四周年的策划的时候想到了用这个插件。
 
@@ -92,7 +92,7 @@ css3d是一个伪3d的插件，基于div+css3实现,相对canvas webgl拥有更�
 [四周年策划](http://zj.qq.com/money/ywl_dzw_four.htm)
 ![四周年策划](readme-images/6.png "四周年策划")
 
-[vue](https://cn.vuejs.org/)
+### [vue](https://cn.vuejs.org/)
 下面这个项目是我的[vue初体验](https://github.com/yuwanli/start-with-vue)(简直想死)，这里就不赘述了。
 [http://zj.qq.com/money/ywl_zhxy_invite.htm](http://zj.qq.com/money/ywl_zhxy_invite.htm)
 
