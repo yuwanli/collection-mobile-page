@@ -26,8 +26,8 @@ swiper是目前应用较广泛的移动端网页触摸内容滑动js插件。相
 - [http://zj.qq.com/money/ywl_qiaosi_prison.htm](http://zj.qq.com/money/ywl_qiaosi_prison.htm)
 - [http://zj.qq.com/money/ywl_edu_liuxue.htm](http://zj.qq.com/money/ywl_edu_liuxue.htm)
 - [http://zj.qq.com/money/ywl_qiaosi_wisdom.htm](http://zj.qq.com/money/ywl_qiaosi_wisdom.htm)
-- [http://zj.qq.com/zt2016/expositionh5/index.htm](http://zj.qq.com/zt2016/expositionh5/index.htm)
 
+- [http://zj.qq.com/zt2016/expositionh5/index.htm](http://zj.qq.com/zt2016/expositionh5/index.htm)
 > 这个h5就遇到了上面提到的那个问题，这里使用的方式是内嵌swiper的方式（其实不是很好的处理方式），内部swiper通过设置freeMode、freeModeMomentum、freeModeMomentumBounce等属性可以实现单长页，通过监听内部的swiper的onReachEnd和onReachBeginning事件来判断是否滑倒底部或者顶部，然后做翻页的动作。在实现的过程中会有一些bug，具体的不展开分析了。若有小伙伴碰到类似的需求直接右键源码，拷贝相应的js和css即可使用。
 
 互动性的
