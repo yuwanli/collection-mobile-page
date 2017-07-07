@@ -90,9 +90,12 @@ css3d是一个伪3d的插件，基于div+css3实现,相对canvas webgl拥有更�
 四周年策划，是视频、音频、动画的一个结合，预期是打造出一个高逼格的h5。然后，最终呈现的效果很差，这个项目算是很失败，在很长的一段时间里都很苦恼这件事，怀疑自己的能力。后来总结了下，项目进行中确实存在满多问题，时间上，一周的时间导致没有时间去完善很细致的动画，遇到问题也不能及时解决（没有能问的人，网上相关这个插件的资料少）。沟通上，太零碎太碎片了，导致反复的修改，效率很低。
 
 [四周年策划](http://zj.qq.com/money/ywl_dzw_four.htm)
+
 ![四周年策划](readme-images/6.png "四周年策划")
 
 ### [vue](https://cn.vuejs.org/)
+
 下面这个项目是我的[vue初体验](https://github.com/yuwanli/start-with-vue)(简直想死)，这里就不赘述了。
+
 [http://zj.qq.com/money/ywl_zhxy_invite.htm](http://zj.qq.com/money/ywl_zhxy_invite.htm)
 
