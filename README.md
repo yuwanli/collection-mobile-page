@@ -49,7 +49,6 @@ swiper是目前应用较广泛的移动端网页触摸内容滑动js插件。相
 这里不展开讲phaser了，后面专门写一篇关于使用该游戏框架的，挑选几个游戏具体分享下我是如何使用phaser。
 
 - [2016中秋策划-凑齐全家福](http://zj.qq.com/zt2016/zqqjf/index.htm)
-
 ![2016中秋策划](readme-images/1.png "2016中秋策划")![2016中秋策划](readme-images/12.png "2016中秋策划")
 
 - [必胜客万圣节策划](http://zj.qq.com/money/ywl_game_halloween.htm)
@@ -62,7 +61,7 @@ swiper是目前应用较广泛的移动端网页触摸内容滑动js插件。相
 
 - [2016年终策划-重走2016](http://mat1.gtimg.com/zj/yuwanli/dzw1612/news_yearPlan/index.html)
 
-![2016年终策划-重走2016](readme-images/4.png "2016年终策划-重走2016")![2016年终策划-重走2016](readme-images/15.png "2016年终策划-重走2016")
+![2016年终策划-重走2016](readme-images/4.png "2016年终策划-重走2016")![2016年终策划-重走2016](readme-images/15.jpg "2016年终策划-重走2016")
 
 - [2016年年度黑企鹅奖](http://mat1.gtimg.com/zj/yuwanli/dzw1701/entPlan/index.html)
 
@@ -149,12 +148,15 @@ ECharts，一个纯 Javascript 的图表库，可以流畅的运行在 PC 和移
 - [运河庙会个人页](http://zj.qq.com/money/ywl_dyh_index.htm?aid=2133&pid=1619)
 
 - [拖拽类的小游戏](http://zj.qq.com/money/ywl_zhoushan_game.htm)
+
 ![拖拽类的小游戏](readme-images/10.png "拖拽类的小游戏")![拖拽类的小游戏](readme-images/21.png "拖拽类的小游戏")
 
 - [我第一个策划类的h5-感恩节](http://zj.qq.com/money/ywl_thanksgiving2.htm)
+
 ![我第一个策划类的h5-感恩节](readme-images/8.png "我第一个策划类的h5-感恩节")![我第一个策划类的h5-感恩节](readme-images/22.jpg "我第一个策划类的h5-感恩节")
 
 
 以上这些都可以通过关注大浙产品中心公众号，里面会收集优秀的h5产品。
+
 ![大浙产品中心](readme-images/23.png "大浙产品中心")![大浙产品中心](readme-images/24.png "大浙产品中心")
 
