@@ -49,6 +49,7 @@ swiper是目前应用较广泛的移动端网页触摸内容滑动js插件。相
 这里不展开讲phaser了，后面专门写一篇关于使用该游戏框架的，挑选几个游戏具体分享下我是如何使用phaser。
 
 - [2016中秋策划-凑齐全家福](http://zj.qq.com/zt2016/zqqjf/index.htm)
+
 ![2016中秋策划](readme-images/1.png "2016中秋策划")![2016中秋策划](readme-images/12.png "2016中秋策划")
 
 - [必胜客万圣节策划](http://zj.qq.com/money/ywl_game_halloween.htm)
