@@ -81,6 +81,15 @@ Pixi.js使用WebGL,是一个超快的HTML5 2D渲染引擎。phaser内部使用�
 
 ![2016七夕策划-视力表](readme-images/7.png "2016七夕策划-视力表")![2016七夕策划-视力表](readme-images/18.png "2016七夕策划-视力表")
 
+--------------------
+
+### [createjs](https://github.com/CreateJS)
+
+CreateJS是基于HTML5开发的一套模块化的库和工具。基于这些库，可以非常快捷地开发出基于HTML5的游戏、动画和交互应用。简单的说就是游戏框架，Adobe Animate CC 制作的动画，可直接导出基于CreateJS的html和js，前端人员可以直接使用。下面是最近才做的一个项目，[舟山好网民](http://zj.qq.com/money/ywl_zhoushan_test.htm)，具体的可以点击查看，解析如何快速使用。
+
+- [舟山好网民](http://zj.qq.com/money/ywl_zhoushan_test.htm)
+
+![舟山好网民](readme-images/7.png "舟山好网民")
 
 --------------------
 
